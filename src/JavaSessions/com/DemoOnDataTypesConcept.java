@@ -7,8 +7,10 @@ public class DemoOnDataTypesConcept {
 	
 	
 	public static void main(String[] args) {
+	/*	
+		
 		//Datatypes:
-		//1.Primitive data types:
+		//1.Primitive data types://built in datatypes
 		
 		//boolean type: true/false
 		//Numeric Type:
@@ -141,15 +143,40 @@ public class DemoOnDataTypesConcept {
 								System.out.println(d);
 								double dd=13.00;
 								System.out.println(dd);			
-							
-							
-							
-							
-
-
+*/							
+				//7	:char
+				//size:2byte---> 2*8=16bits		
+				//Any thing which is enclosed with in single quote is called character	
+				//a-z A-Z 0-9 all special characters
+					char c='a';		
+					System.out.println(c);
+					char cc='#';	
+					System.out.println(cc);
+					char ccc='3';	
+					System.out.println(ccc);
+					char cccc='*';	
+					System.out.println(cccc);
 				
-		
-		
+					//8	:boolean:-->true/false
+					//size:1bit
+					boolean b=true;
+					System.out.println(b);
+					boolean bb=false;
+					System.out.println(bb);
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
 		
 
 	}
