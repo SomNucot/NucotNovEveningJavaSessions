@@ -25,20 +25,13 @@ public class ConditionalStaementDemo {
 		 * }
 		 * System.out.println("Thanks");
 		 * 
-		 * 
-		 * 
-		 * 
-		 * 
 		 */
 		
 		int ii=5;
 		int jj=5;
 		if(ii==jj)
 		{
-			
 			System.out.println("Both are equal");
-			
-			
 		}
 		System.out.println("Bye");
 		
@@ -66,10 +59,6 @@ public class ConditionalStaementDemo {
 		 * }
 		 * 
 		 * 
-		 * 
-		 * 
-		 * 
-		 * 
 		 */
 		
 	
@@ -85,6 +74,74 @@ public class ConditionalStaementDemo {
 			System.out.println("Q is greater");
 			
 		}
+		
+		
+		
+		//nested if
+		
+		System.out.println("*****Nested if satement**********");
+		
+		
+		int num=100;
+		
+		if(num<=100)
+		{
+			System.out.println("marks with grade");
+			
+			if(num>=95)
+			{
+				System.out.println("The grade is below");
+				
+				if(num==100)
+				{
+					System.out.println("Excellent grade");
+				}
+				
+				
+				
+			}
+			
+			
+		}
+		
+		
+		System.out.println("Excellent grade");
+		
+		
+		//Nested if else statement
+		
+		String browser="chrome";
+		
+		if(browser.equals("chrome"))
+		{
+			
+			System.out.println("Launch the chrome browser");
+			
+		}
+		else if(browser.equals("firefox"))
+		{
+			System.out.println("Launch the firefox browser");
+		}
+		else if(browser.equals("ie"))
+		{
+			System.out.println("Launch the ie browser");
+		}
+		
+		else if(browser.equals("safari"))
+		{
+			System.out.println("Launch the safari browser");
+		}
+		else
+		{
+			System.out.println("Pass the vaild browser name");
+		}
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
