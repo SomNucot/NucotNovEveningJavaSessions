@@ -4,6 +4,22 @@ public class LoopsDemosession {
 
 	public static void main(String[] args) {
 		
+		//uses cases for while loop
+		//When num of iterations are not fixed
+		//To get total number of images /links in page
+		//Pagination concept 1 2 3....lastpage
+		//To read DB data--row/col
+		
+		
+		//uses cases for for loop
+		
+		//When num of iterations are  fixed
+		//dropdown
+		//read from excel
+		
+		
+		
+		
 		//1-10
 		
 		System.out.println(1);
