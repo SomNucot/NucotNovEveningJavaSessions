@@ -3,9 +3,9 @@ package ClassesandObjectDemo.com;
 public class TypesOfMethodsDemo {
 
 	
-	//normal methods----->Implemented method(Method def)(here Body  will be there) and
-	//non implemented method(Method prototype)(no body)
-	//static methods
+	//1.a. normal methods----->1.Implemented method(Method def)(here Body  will be there) and
+							   //2.non implemented method(Method prototype)(no body)
+	//1.b. static methods
 	
 	
 		//non implemented methods(method declaration)
@@ -140,19 +140,6 @@ public class TypesOfMethodsDemo {
 	 * 
 	 * 
 	 */
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
