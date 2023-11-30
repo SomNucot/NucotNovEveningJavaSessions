@@ -31,6 +31,8 @@ public  class StaticClassDemo {
 	
 		obj.show();
 		obj.show1();
+		
+		 //BB.show1();
 
 	}
 
