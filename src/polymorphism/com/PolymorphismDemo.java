@@ -18,6 +18,17 @@ public class PolymorphismDemo {
 	//4.The sequence of the parameters should be also different
 	
 	
+	PolymorphismDemo()
+	{
+		System.out.println("this is constructor");
+	}
+	
+	
+	
+	
+	
+	
+	
 	
 	//Method Overloading
 	void add()
