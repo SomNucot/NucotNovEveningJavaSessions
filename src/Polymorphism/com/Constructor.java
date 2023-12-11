@@ -1,4 +1,4 @@
-package Polymorphism.com;
+package polymorphism.com;
 
 public class Constructor {
 
