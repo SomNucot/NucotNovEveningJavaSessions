@@ -60,6 +60,12 @@ public class ManipalHospital implements IndianMedical,USMedical,UKMedical{
 	
 	
 	
+	public void medicalClaimOption()
+	{
+		System.out.println("medicalClaimOption");
+
+	}
+	
 	
 	
 	
