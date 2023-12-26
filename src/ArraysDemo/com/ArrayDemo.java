@@ -112,6 +112,17 @@ public class ArrayDemo {
 				System.out.println(s);
 				System.out.println(Arrays.toString(s));
 				
+				
+			String nn="nucot";
+			nn.length();
+			
+			
+			
+				
+				
+				
+				
+				
 		
 		
 		
