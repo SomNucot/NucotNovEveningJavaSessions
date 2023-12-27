@@ -17,7 +17,7 @@ public class ArrayListDemo {
 		oarraylist.add(20);
 		oarraylist.add(50);
 		
-		
+		System.out.println("this is arraylist bag"+oarraylist);
 		
 		//first way
 		System.out.println("Before adding some more in to the array--->"+oarraylist.size());
